@@ -1,7 +1,5 @@
 #! /bin/node
 
-#! /bin/node
-
 var array = [] ;
 for ( var i = 1 ; i < 1000 ; i ++ ){
 	array.push(i) ;
