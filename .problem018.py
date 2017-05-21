@@ -27,6 +27,4 @@ for i in range(1,len(a)):
         else:
             a[i][n] = a[i][n] + a[i-1][n+1]
 
-for i in a:
-    print i
-
+print a[-1][0]
